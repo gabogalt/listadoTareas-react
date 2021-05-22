@@ -4,7 +4,7 @@ const Header = ({ contador }) => {
 	return (
 		<Jumbotron fluid>
 			<Container>
-				<h1 className="text-center">Lista de tareas🍕</h1>
+				<h1 className="text-center">Lista de pedidos🍕</h1>
 			</Container>
 		</Jumbotron>
 	);

@@ -1,3 +1,5 @@
+import { Button } from "react-bootstrap";
+
 const ImprimiPedido = ({ pedidos }) => {
 	return (
 		<>
